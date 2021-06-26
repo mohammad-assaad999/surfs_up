@@ -10,4 +10,4 @@
   - The minimum and maximum temprature in June are 64 and 85, respectively. The difference is much lower than the one in December because the minimum is 56 and the maximum is 83. 
   - Finally, 50% of the results are lower than 75 in June and 71 in December. 
 ## Summary
-  
+  As a result, we can say that the temperature in June is higher than the one in December which gives W. Avy the opportunity to get more sales results during the month. Since the average, minimum, maximum, and the median temperature in June are higher than the ones in December, the need of fresh and cold products are much needed in that month of the year. That's why the month of June is the best month for W. Avy to stat his business in. 
